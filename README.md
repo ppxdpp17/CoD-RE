@@ -9,13 +9,11 @@ Developed as part of the *Game Development* course within the Master's in Inform
 
 ## 📸 In-Engine Showcase
 
-| Sawyer Ranch (Night Atmosphere) | Kosse Mine Boss Encounter |
+| Various Screens | Models & View |
 | :---: | :---: |
-| ![Sawyer Ranch](docs/images/sawyer-ranch.png) | ![Boss Encounter](docs/images/boss-encounter.png) |
-
-| First-Person Rig & Shotgun | AI NavMesh Surface & Companion Links |
+| ![Initial Screen](docs/images/mainScreen.png) | ![First-Person View](docs/images/bulletFPS.png) |
 | :---: | :---: |
-| ![FPS Rig](docs/images/weapon-rig.png) | ![NavMesh Setup](docs/images/navmesh-setup.png) |
+| ![Pause Menu](docs/images/pause.png) | ![Player Model](docs/images/playerModel.png) |
 
 ---
 
