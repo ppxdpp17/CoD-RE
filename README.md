@@ -11,7 +11,7 @@ Developed as part of the *Game Development* course within the Master's in Inform
 
 | Various Screens | Models & View |
 | :---: | :---: |
-| ![Initial Screen](docs/images/mainScreen.png) | ![First-Person View](docs/images/bulletFPS.png) |
+| ![Initial Screen](docs/images/mainScreen.png) | ![First-Person View](docs/images/bulletsFPS.png) |
 | :---: | :---: |
 | ![Pause Menu](docs/images/pause.png) | ![Player Model](docs/images/playerModel.png) |
 
