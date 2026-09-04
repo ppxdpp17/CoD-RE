@@ -91,5 +91,5 @@ The project features two distinct game modes tied to independent environments an
 
 Project developed for the **Game Development** course (Master's in Informatics Engineering - UTAD) under the guidance of **Prof. Maximino Bessa**:
 
-* **António Trancoso** – 
-* **Pedro Duarte** - 
+* **António Trancoso** – [GitHub](https://github.com/antoniotrancoso01)
+* **Pedro Duarte** - [GitHub](https://github.com/ppxdpp17)
